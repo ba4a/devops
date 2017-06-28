@@ -326,10 +326,12 @@ a:hover, a:focus, a:active, a:visited {
 	-webkit-transition: all 0.3s;
   	-moz-transition: all 0.3s;
   	transition: all 0.3s;
-  	margin-right: 90px;
-    margin-left: 100px;
   	border: 3px solid #f6f6f6;
     border-radius: 5px;
+}
+.speaker .left{
+    margin-left: 120px;
+  	margin-right: 100px;
 }
 .speaker .feature:hover {
     box-shadow: 3px 3px 10px #ccc;
