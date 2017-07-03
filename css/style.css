@@ -16193,7 +16193,7 @@ kbd kbd {
 pre {
     display: block;
     padding: 12px;
-    margin: 0 0 12.5px;
+    margin: 6px 0 12.5px;
     font-size: 15px;
     line-height: 1.5625;
     word-break: break-all;
@@ -39827,10 +39827,11 @@ CP_TwoColContentBlocks .light-background .main-class .light-background h4 {
 
 .carousel .slick-list {
     padding-left: 5% !important;
+    padding-right: 5% !important;
 }
 
 .videopad {
-    margin: 0 25px 0 25px !important;
+    margin: 0 2% 0 2% !important;
 }
 
 .carousel .overlaydiv {
@@ -45387,7 +45388,6 @@ ul {
     align-items: center;
     display: flex;
     justify-content: center;
-    max-width: 1920px;
     text-align: center;
     width: 100%;
 }
@@ -45579,7 +45579,7 @@ a:hover, a:focus, a:active, a:visited {
 
 .hero-header {
 	background: #016cc7;
-	padding: .5em 0 1em 0;
+	padding: .5em 10em 1em 0;
 	color: #fff;
     text-align: right;
 }
@@ -45927,4 +45927,13 @@ li {
         width: 49%;
         margin-right: 9px;
     }
+}
+
+.feature2 {
+    padding-left: 8vw;
+    padding-right: 8vw;
+}
+
+ul.speaker-social {
+    text-align: right;
 }
