@@ -45929,11 +45929,24 @@ li {
     }
 }
 
-.feature2 {
-    padding-left: 8vw;
-    padding-right: 8vw;
+.section {
+    padding-left: 12vw;
+    padding-right: 12vw;
 }
 
 ul.speaker-social {
     text-align: right;
+}
+
+.section-item {
+    width: 44%; 
+    display: inline-block;
+    padding: 2vw;
+    background: #F0F0F0;
+    margin: 2vw;
+}
+
+.section-item a{
+    font-weight: bold;
+    font-size: large;
 }
