@@ -46000,7 +46000,7 @@ ul.speaker-social {
     }       
     .sub-section-item-minor{
         display: inline-block;
-        width: 33%;
+        width: auto;
         padding: 2vw;
         text-align: justify;
         float: none !important;
@@ -46026,4 +46026,15 @@ ul.speaker-social {
         padding: 2vw 2vw;
         margin: 1vw 1vw;
     }
+    .video-well p {
+        padding: 0 2vw;
+        text-align: justify;
+        text-justify: inter-word;
+    }
+}
+
+.gallery-item{
+    width: 20%;
+    margin: 1.5%;
+    display: inline-block;
 }
