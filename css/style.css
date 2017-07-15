@@ -45990,7 +45990,7 @@ ul.speaker-social {
     text-align: justify;
 }
 
-@media (max-width: 1400px) {
+@media (max-width: 1200px) {
     .sub-section-item-major{
         display: inline-block;
         width: 66%;
@@ -46000,10 +46000,13 @@ ul.speaker-social {
     }       
     .sub-section-item-minor{
         display: inline-block;
-        width: auto;
         padding: 2vw;
         text-align: justify;
         float: none !important;
+    }
+    .sub-section {
+        padding: 2vw 2vw;
+        margin: 1vw 1vw;
     }
 }
 
