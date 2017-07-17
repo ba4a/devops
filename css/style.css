@@ -45981,7 +45981,7 @@ ul.speaker-social {
     display: inline-block;
     width: 33%;
     padding: 2vw;
-    text-align: justify;
+    text-align: left;
 }
 
 .sub-section-item-minor img{
@@ -45992,7 +45992,7 @@ ul.speaker-social {
     display: inline-block;
     width: 66%;
     padding: 2vw;
-    text-align: justify;
+    text-align: left;
 }
 
 @media (max-width: 1200px) {
