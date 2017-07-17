@@ -45428,6 +45428,11 @@ ul {
     width: 16%;
     min-width: 250px;
 }
+.sql-home-item--column:hover{
+    background: #bfe3ff;
+
+}
+
 .sql-home-item {
     align-items: center;
     background-color: #FFF;
@@ -45450,10 +45455,10 @@ ul {
 .sql-home-icon--block {
     background-color: transparent;
     display: block;
-    height: 150px;
-    margin-bottom: 0px;
-    padding-top: 0px;
-    width: 150px;
+    
+    margin-bottom: 10%;
+    padding-top: 5%;
+    
 }
 .sql-home-icon {
     display: inline-block;
@@ -46041,3 +46046,4 @@ ul.speaker-social {
     margin: 1.5%;
     display: inline-block;
 }
+
