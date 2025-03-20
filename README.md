@@ -108,7 +108,6 @@ git clone https://github.com/username/repository.git
 
 ---
 
-## Conclusion
-You have successfully installed and set up Git for version control. This guide provides the foundation for working with Git during the **TechnoHacks Solutions Pvt. Ltd. Internship Program 2025**.
+
 
 
